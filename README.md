@@ -1,4 +1,4 @@
-# ABC Marketing Pvt (Ltd) - Sales Forecasting Project
+# ABC Marketing Pvt (Ltd) - Sales Forecasting Project.
 
 ## Problem Statement
 Sales forecasting plays a very important role for a retail organizations to develop business strategies that align with demand and create promotions to enhance sales. 
